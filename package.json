@@ -1,0 +1,31 @@
+{
+  "name": "card-creator",
+  "version": "1.0.0",
+  "description": "script to generate jp anki cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronii/card-creator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronii/card-creator/issues"
+  },
+  "homepage": "https://github.com/cronii/card-creator#readme",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "kuromoji": "^0.1.2",
+    "unofficial-jisho-api": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
