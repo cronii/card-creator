@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/cronii/card-creator#readme",
   "dependencies": {
-    "google-translate-api": "^2.3.0",
+    "google-translate-api-x": "^10.6.7",
     "kuromoji": "^0.1.2",
+    "sqlite": "^4.2.1",
+    "sqlite3": "^5.1.6",
     "unofficial-jisho-api": "^2.3.0"
   },
   "devDependencies": {

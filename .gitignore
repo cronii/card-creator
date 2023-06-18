@@ -1,6 +1,7 @@
 .DS_STORE
 input/*
 output/*
+mining-card-list.db
 
 # Logs
 logs
